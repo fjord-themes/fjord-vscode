@@ -63,7 +63,7 @@ git clone https://github.com/fjord-themes/fjord-vscode.git --depth 1
 
 ```bash
 git clone https://github.com/fjord-themes/fjord-vscode.git
-cd VS Code-VS Code
+cd fjord-vscode
 ```
 
 2. Install dependencies:
@@ -88,10 +88,6 @@ After installation, you can activate the theme by:
 1. Opening the Command Palette (Ctrl+Shift+P)
 2. Typing "Preferences: Color Theme"
 3. Selecting "Fjord"
-## 📸 Preview
-
-![Fjord VS Code Theme](https://github.com/fjord-theme/Fjord/blob/main/images/vscode.png)
-
 
 ## 🔄 Updates
 
