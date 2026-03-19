@@ -1,0 +1,38 @@
+{
+  "name": "fjord",
+  "displayName": "Fjord",
+  "description": "A Nordic color theme — dusk-blue base, leaf-green accents, crisp blue/cyan separation.",
+  "version": "0.1.0",
+  "publisher": "fjord-themes",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "nordic",
+    "dark",
+    "fjord"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fjord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fjord-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fjord-themes/fjord-vscode"
+  },
+  "homepage": "https://github.com/fjord-themes/fjord",
+  "bugs": {
+    "url": "https://github.com/fjord-themes/fjord-core/issues"
+  },
+  "license": "MIT"
+}
