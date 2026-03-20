@@ -39,46 +39,11 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 ### Manual Installation
 
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/fjord-themes/fjord-vscode.git --depth 1
-```
-
-2. Download the latest `.vsix` file from [Releases](https://github.com/fjord-themes/fjord-vscode/releases)
-3. Open VS Code
-4. Go to Extensions (Ctrl+Shift+X)
-5. Click the "..." menu and select "Install from VSIX..."
-6. Select the downloaded `.vsix` file
-
-
-
-
-
-
-### From Source
-
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/fjord-themes/fjord-vscode.git
-cd fjord-vscode
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Package the extension:
-
-```bash
-npm run package
-```
-
-4. Install the generated `.vsix` file
+1. Download the latest `.vsix` file from [Releases](https://github.com/fjord-themes/fjord-vscode/releases)
+2. Open VS Code
+3. Go to Extensions (Ctrl+Shift+X)
+4. Click the "..." menu and select "Install from VSIX..."
+5. Select the downloaded `.vsix` file
 
 
 ## 🔧 Configuration
