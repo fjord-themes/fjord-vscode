@@ -2,8 +2,9 @@
   "name": "fjord-theme",
   "displayName": "Fjord Theme",
   "description": "A Nordic color theme — dusk-blue base, leaf-green accents, crisp blue/cyan separation.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "jshuntley",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
