@@ -91,13 +91,13 @@
     "gitDecoration.deletedResourceForeground": "#FF9B9B",
     "gitDecoration.untrackedResourceForeground": "#9DD99A",
     "gitDecoration.ignoredResourceForeground": "#6C7A86",
-    "gitDecoration.conflictingResourceForeground": "#C8CCF7",
+    "gitDecoration.conflictingResourceForeground": "#D4C6F7",
     "diffEditor.insertedTextBackground": "#9DD99A35",
     "diffEditor.removedTextBackground": "#F37C7C35",
     "diffEditor.diagonalFill": "#233141",
     "peekView.border": "#233141",
     "peekViewEditor.background": "#1B2532",
-    "peekViewEditor.matchHighlightBackground": "#D4CC7A66",
+    "peekViewEditor.matchHighlightBackground": "#FFE0A366",
     "peekViewResult.background": "#1F2A39",
     "peekViewTitle.background": "#1F2A39",
     "debugToolBar.background": "#1F2A39",
@@ -107,8 +107,8 @@
     "editorBracketHighlight.foreground1": "#5DA6EA",
     "editorBracketHighlight.foreground2": "#B8E7E9",
     "editorBracketHighlight.foreground3": "#9DD99A",
-    "editorBracketHighlight.foreground4": "#C8B860",
-    "editorBracketHighlight.foreground5": "#A8A4F8",
+    "editorBracketHighlight.foreground4": "#FFD285",
+    "editorBracketHighlight.foreground5": "#B9A0F8",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF9B9B",
     "terminal.foreground": "#E8F0F3",
     "terminal.background": "#1B2532",
@@ -117,17 +117,17 @@
     "terminal.ansiBlack": "#212128",
     "terminal.ansiRed": "#F37C7C",
     "terminal.ansiGreen": "#9DD99A",
-    "terminal.ansiYellow": "#C8B860",
+    "terminal.ansiYellow": "#FFD285",
     "terminal.ansiBlue": "#5DA6EA",
-    "terminal.ansiMagenta": "#A8A4F8",
+    "terminal.ansiMagenta": "#B9A0F8",
     "terminal.ansiCyan": "#B8E7E9",
     "terminal.ansiWhite": "#E8F0F3",
     "terminal.ansiBrightBlack": "#51606B",
     "terminal.ansiBrightRed": "#FF9B9B",
     "terminal.ansiBrightGreen": "#A3D5A0",
-    "terminal.ansiBrightYellow": "#D4CC7A",
+    "terminal.ansiBrightYellow": "#FFE0A3",
     "terminal.ansiBrightBlue": "#7BB8FF",
-    "terminal.ansiBrightMagenta": "#C8CCF7",
+    "terminal.ansiBrightMagenta": "#D4C6F7",
     "terminal.ansiBrightCyan": "#A1E9DE",
     "terminal.ansiBrightWhite": "#EFFAFF"
   },
@@ -395,7 +395,7 @@
         "punctuation.decorator"
       ],
       "settings": {
-        "foreground": "#C8CCF7"
+        "foreground": "#D4C6F7"
       }
     },
     {
@@ -432,7 +432,7 @@
         "function.macro"
       ],
       "settings": {
-        "foreground": "#C8CCF7"
+        "foreground": "#D4C6F7"
       }
     },
     {
@@ -509,7 +509,7 @@
         "foreground": "#B8E7E9"
       },
      "macro": {
-      "foreground": "#C8CCF7"
+      "foreground": "#D4C6F7"
     },
     "type": {
       "foreground": "#5DA6EA"
@@ -560,7 +560,7 @@
       "foreground": "#B8E7E9"
     },
     "label": {
-      "foreground": "#C8CCF7"
+      "foreground": "#D4C6F7"
     }
   }
 }
