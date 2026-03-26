@@ -39,7 +39,7 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 ### Manual Installation
 
 
-1. Download the latest `.vsix` file from [Releases](https://github.com/fjord-themes/fjord-vscode/releases)
+1. Download the latest `.vsix` file from [Releases](https://git.jshuntley.com/fjord-theme/fjord-vscode/releases)
 2. Open VS Code
 3. Go to Extensions (Ctrl+Shift+X)
 4. Click the "..." menu and select "Install from VSIX..."
@@ -56,7 +56,7 @@ After installation, you can activate the theme by:
 
 ## 🔄 Updates
 
-This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://github.com/fjord-themes/fjord).
+This theme is automatically generated from [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
 ## ☕ Support My Work
 
 If you enjoy the Fjord theme and find it useful, consider supporting my work:
@@ -67,4 +67,4 @@ If you enjoy the Fjord theme and find it useful, consider supporting my work:
 MIT License - see [LICENSE](LICENSE) file for details.
 ## 🤝 Contributing
 
-For theme suggestions or issues, please open an issue on [fjord-core](https://github.com/fjord-themes/fjord-core). For an overview of the project, visit the [Fjord theme page](https://github.com/fjord-themes/fjord).
+For theme suggestions or issues, please open an issue on [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core). For an overview of the project, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
