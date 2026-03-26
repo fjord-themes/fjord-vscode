@@ -2,6 +2,7 @@
 
 A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for Visual Studio Code.
 
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -53,7 +54,6 @@ After installation, you can activate the theme by:
 1. Opening the Command Palette (Ctrl+Shift+P)
 2. Typing "Preferences: Color Theme"
 3. Selecting "Fjord"
-
 ## 🔄 Updates
 
 This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord GitHub page](https://github.com/fjord-themes).
