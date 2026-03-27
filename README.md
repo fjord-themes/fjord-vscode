@@ -1,6 +1,6 @@
 # Fjord Theme for VS Code
 
-A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for Visual Studio Code.
+A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for Visual Studio Code.
 
 ![Fjord VS Code Theme](images/vscode.png)
 
