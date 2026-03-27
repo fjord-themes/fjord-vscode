@@ -22,7 +22,7 @@ jobs:
         run: npm install -g @vscode/vsce
 
       - name: Package extension
-        run: vsce package --baseContentUrl https://raw.githubusercontent.com/fjord-themes/fjord-vscode/main --baseImagesUrl https://raw.githubusercontent.com/fjord-themes/fjord-vscode/main
+        run: vsce package
 
       - name: Create GitHub release
         run: |
@@ -39,6 +39,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to marketplace
-        run: vsce publish --no-git-tag-version --baseContentUrl https://raw.githubusercontent.com/fjord-themes/fjord-vscode/main --baseImagesUrl https://raw.githubusercontent.com/fjord-themes/fjord-vscode/main
+        run: vsce publish --no-git-tag-version
         env:
           VSCE_PAT: ${{ secrets.VSCE_PAT }}
