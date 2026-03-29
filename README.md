@@ -42,7 +42,7 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 ### Manual Installation
 
 
-1. Download the latest `.vsix` file from [Releases](https://git.jshuntley.com/fjord-theme/fjord-vscode/releases)
+1. Download the latest `.vsix` file from [Releases](https://github.com/fjord-themes/fjord-vscode/releases)
 2. Open VS Code
 3. Go to Extensions (Ctrl+Shift+X)
 4. Click the "..." menu and select "Install from VSIX..."
